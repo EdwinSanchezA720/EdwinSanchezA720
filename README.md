@@ -31,10 +31,10 @@ Te invito a ver mis proyectos.
 ---
  
 ## 📊 Mis estadísticas en GitHub
- 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=EdwinSanchezA720&show_icons=true&theme=tokyonight&locale=es)
- 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=EdwinSanchezA720&layout=compact&theme=tokyonight&locale=es)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=EdwinSanchezA720&theme=tokyonight&locale=es&date_format=j%20M%5B%20Y%5D)
+
+![Lenguajes más usados](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EdwinSanchezA720&theme=tokyonight)
  
 ---
  
@@ -53,5 +53,5 @@ Te invito a ver mis proyectos.
 ---
  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=blue&style=flat-square&label=Visitas+al+perfil" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=EdwinSanchezA720&color=blue&style=flat-square&label=Visitas+al+perfil" alt="Contador de visitas" />
 </p>
