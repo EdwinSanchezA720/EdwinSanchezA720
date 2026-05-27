@@ -1,3 +1,4 @@
+<div align="center">
 # Hola! y bienvenido a mi repositorio en Github, soy Edwin Sánchez
  
 Soy Ingeniero Mecánico formado en el IPN, con gran pasión por la tecnología y el mundo de la información, lo que me ha traido hasta aqui. Estoy en busqueda de mi primer oportunidad en el sector para crecer como Desarrollador Java Full Stack. La primera vez que pude hacer una integración del frontend con el backend mediante APIs REST, y vi como se actualizaba la base de datos, quede impactado y conmovido por tal logro. 
@@ -55,3 +56,4 @@ Te invito a ver mis proyectos.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EdwinSanchezA720&color=blue&style=flat-square&label=Visitas+al+perfil" alt="Contador de visitas" />
 </p>
+</div>
